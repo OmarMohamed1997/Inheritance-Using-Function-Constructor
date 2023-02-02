@@ -1,5 +1,5 @@
 # Inheritance-Using-Function-Constructor
-##3 Part One
+## Part One
 #### Creating Shape Class
 ## Part Two
 #### Creating square class extends shape class
